@@ -94,6 +94,10 @@ form{
 .search input:focus {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); 
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 
 
 /* All Buttons */
@@ -162,9 +166,9 @@ button{
     color: #b6b6b6;
 }
 
-a{
+/* a{
     color: #f7f7f7;
-}
+} */
 .social-icons i:hover {
     color: #8a8a8a;
 }
